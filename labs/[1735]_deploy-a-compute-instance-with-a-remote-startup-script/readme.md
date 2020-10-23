@@ -1,6 +1,6 @@
 # [Deploy a Compute Instance with a Remote Startup Script](https://qwiklabs.com/focuses/1735?parent=catalog)
 
-## Overview
+## Overview of file
 
 For this Challenge Lab you must complete a series of tasks within a limited time period. Instead of following step-by-step instructions, you'll be given a scenario and task - you figure out how to to complete it on your own! An automated scoring system (shown on this page) will provide feedback on whether you have completed your tasks correctly.
 
