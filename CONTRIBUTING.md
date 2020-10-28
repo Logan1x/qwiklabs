@@ -3,6 +3,7 @@
 ## What you can contribute?
 * Add new labs guide
 * Improve/Fix existing lab
+* place folder
 * Add another lab resources
 * Add another learning resources (README.md)
 * Add another similiar programs (README.md)
