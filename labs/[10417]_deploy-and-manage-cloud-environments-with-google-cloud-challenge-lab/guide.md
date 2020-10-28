@@ -57,6 +57,7 @@ kubectl port-forward --namespace default $DECK_POD 8080:9000 >> /dev/null &
 - *in cloud shell*
 gcloud config set compute/zone us-east1-b
 gcloud source repos clone sample-app
+gcloud config set compute/zone us-east2-c
 cd sample-app
 touch a
 git config --global user.email "$(gcloud config get-value account)"
